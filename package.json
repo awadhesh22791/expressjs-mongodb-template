@@ -29,7 +29,7 @@
     "log4js": "^3.0.4",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.3",
     "string-format": "^2.0.0",
     "vash": "^0.12.4"
